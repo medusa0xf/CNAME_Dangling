@@ -29,12 +29,12 @@ def check_dangling_cname(domain):
     if cname_target:
         print(f"The CNAME for {domain} points to {cname_target}.")
         if not resolve_ip(cname_target):
-            print(f"{cname_target} is dangling (no valid IP address).")
+            print(f"{Fore.GREEN}{cname_target} is dangling (no valid IP address).")
         else:
             print(f"{cname_target} resolves successfully.")
     else:
         print(f"{domain} does not have a CNAME record.")
 
 
-domain = input("Enter a domain to check for dangling CNAME: ")
+domain = input(f"Enter a domain to check for dangling CNAME: ")
 check_dangling_cname(domain)
