@@ -1,3 +1,4 @@
+![](https://images.squarespace-cdn.com/content/v1/5bd6645551f4d49caf7eef4b/1582595851511-0KBNCM3DUN2SDJ9RM787/2-GradientSMALL.gif?format=1500w)
 # CNAME_Dangling
 This tool automates the process of checking for CNAME dangling issues by verifying if a CNAME record points to a valid, resolvable domain. It helps identify broken or misconfigured CNAME records that could lead to security vulnerabilities.
 
