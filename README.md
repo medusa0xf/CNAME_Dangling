@@ -13,3 +13,7 @@ python3 cname_dangling.py
 ```
 
 ![](https://github.com/medusa0xf/CNAME_Dangling/blob/master/help_menu.png)
+
+This is how the result will look like!
+![](https://github.com/medusa0xf/CNAME_Dangling/blob/master/issue.png)
+
