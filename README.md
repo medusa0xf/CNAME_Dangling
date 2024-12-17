@@ -12,4 +12,4 @@ Run the tool
 python3 cname_dangling.py
 ```
 
-![Alt text](https://github.com/medusa0xf/CNAME_Dangling/blob/master/dns.png)
+![Alt text]()
