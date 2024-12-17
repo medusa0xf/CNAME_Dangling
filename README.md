@@ -1,5 +1,5 @@
 # CNAME_Dangling
-This tool automates the process of checking if a domain’s CNAME is valid or if it points to a non-existent target, helping ensure DNS health.
+This tool automates the process of checking for CNAME dangling issues by verifying if a CNAME record points to a valid, resolvable domain. It helps identify broken or misconfigured CNAME records that could lead to security vulnerabilities.
 
 Run this command to install the dnspython library
 
