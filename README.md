@@ -7,9 +7,9 @@ Run this command to install the dnspython library
 pip install dnspython
 ```
 
-Run the tool
+Run the help command
 ```
-python3 cname_dangling.py
+python3 cname_dangling.py -h
 ```
 
 ![](https://github.com/medusa0xf/CNAME_Dangling/blob/master/help.png)
